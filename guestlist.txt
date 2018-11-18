@@ -1,9 +1,4 @@
 Kelly
 Alex
-
-Staging
-
-
-Committing
-
-Pushing
+Engie
+Rohan
